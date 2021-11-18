@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Paises">
+        <item>Peru</item>
+        <item>Bolivia</item>
+        <item>Japon</item>
+        <item>Colombia</item>
+    </string-array>
+    <string-array name="Planetas">
+        <item>Marte</item>
+        <item>Tierra</item>
+        <item>Jupiter</item>
+    </string-array>
+</resources>
